@@ -1,0 +1,5 @@
+# fool level indicates how many changes are applied
+# available values: 'normal', 'hard', 'insane', 'off'
+fool_level: 'insane'
+# event_countdown decides seconds between events. set 0 to disable
+event_interval: 15

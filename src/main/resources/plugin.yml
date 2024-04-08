@@ -1,0 +1,10 @@
+name: foolsDay
+version: '${project.version}'
+main: net.trioxwater.foolsday.FoolsDay
+api-version: '1.20'
+commands:
+    foolsday_reload:
+        description: FoolsDay Command
+        usage: /fools_day reload
+        aliases: [fd]
+
